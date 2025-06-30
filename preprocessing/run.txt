@@ -1,0 +1,1 @@
+python automate_AlGhani.py D:\Document\PROYEK\Dicoding\MSML\Eksperimen_SML_AlGhani\personality_dataset.csv
